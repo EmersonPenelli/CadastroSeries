@@ -1,0 +1,15 @@
+D:\DIO\C#\AppCadastroSeries\bin\Debug\net8.0\AppCadastroSeries.exe
+D:\DIO\C#\AppCadastroSeries\bin\Debug\net8.0\AppCadastroSeries.deps.json
+D:\DIO\C#\AppCadastroSeries\bin\Debug\net8.0\AppCadastroSeries.runtimeconfig.json
+D:\DIO\C#\AppCadastroSeries\bin\Debug\net8.0\AppCadastroSeries.dll
+D:\DIO\C#\AppCadastroSeries\bin\Debug\net8.0\AppCadastroSeries.pdb
+D:\DIO\C#\AppCadastroSeries\obj\Debug\net8.0\AppCadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\C#\AppCadastroSeries\obj\Debug\net8.0\AppCadastroSeries.AssemblyInfoInputs.cache
+D:\DIO\C#\AppCadastroSeries\obj\Debug\net8.0\AppCadastroSeries.AssemblyInfo.cs
+D:\DIO\C#\AppCadastroSeries\obj\Debug\net8.0\AppCadastroSeries.csproj.CoreCompileInputs.cache
+D:\DIO\C#\AppCadastroSeries\obj\Debug\net8.0\AppCadastroSeries.sourcelink.json
+D:\DIO\C#\AppCadastroSeries\obj\Debug\net8.0\AppCadastroSeries.dll
+D:\DIO\C#\AppCadastroSeries\obj\Debug\net8.0\refint\AppCadastroSeries.dll
+D:\DIO\C#\AppCadastroSeries\obj\Debug\net8.0\AppCadastroSeries.pdb
+D:\DIO\C#\AppCadastroSeries\obj\Debug\net8.0\AppCadastroSeries.genruntimeconfig.cache
+D:\DIO\C#\AppCadastroSeries\obj\Debug\net8.0\ref\AppCadastroSeries.dll
